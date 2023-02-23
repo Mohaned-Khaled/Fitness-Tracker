@@ -1,0 +1,8 @@
+mat-form-field,
+button {
+  width: 300px;
+}
+
+.btn-disabled {
+  cursor: none;
+}

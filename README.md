@@ -16,7 +16,7 @@ This is an Angular fitness tracker application that allows users to create and t
 
 To run this project locally, follow these steps:
 
-1-Clone the repository to your local machine: git clone 'https://github.com/yourusername/fitness-tracker.git'.\
+1-Clone the repository to your local machine: git clone 'https://github.com/Mohaned-Khaled/fitness-tracker.git'.\
 2-Install the dependencies: 'npm install'.\
 3-Create a Firebase project and configure it with your Firebase credentials./
 4-Start the Angular app: 'ng serve'.
